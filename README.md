@@ -1,2 +1,0 @@
-# alexgreyes.github.io
-portfolio
